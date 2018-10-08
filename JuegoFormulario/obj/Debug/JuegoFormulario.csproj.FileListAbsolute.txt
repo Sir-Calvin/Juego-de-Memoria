@@ -1,0 +1,29 @@
+E:\JuegoFormulario\JuegoFormulario\bin\Debug\JuegoFormulario.exe.config
+E:\JuegoFormulario\JuegoFormulario\bin\Debug\JuegoFormulario.exe
+E:\JuegoFormulario\JuegoFormulario\bin\Debug\JuegoFormulario.pdb
+E:\JuegoFormulario\JuegoFormulario\obj\Debug\JuegoFormulario.csprojResolveAssemblyReference.cache
+E:\JuegoFormulario\JuegoFormulario\obj\Debug\JuegoFormulario.Form1.resources
+E:\JuegoFormulario\JuegoFormulario\obj\Debug\JuegoFormulario.Properties.Resources.resources
+E:\JuegoFormulario\JuegoFormulario\obj\Debug\JuegoFormulario.csproj.GenerateResource.Cache
+E:\JuegoFormulario\JuegoFormulario\obj\Debug\JuegoFormulario.exe
+E:\JuegoFormulario\JuegoFormulario\obj\Debug\JuegoFormulario.pdb
+C:\Users\Emi\Downloads\JuegoFormulario\JuegoFormulario\obj\Debug\JuegoFormulario.csprojAssemblyReference.cache
+C:\Users\Emi\Downloads\JuegoFormulario\JuegoFormulario\obj\Debug\JuegoFormulario.Form1.resources
+C:\Users\Emi\Downloads\JuegoFormulario\JuegoFormulario\obj\Debug\JuegoFormulario.Properties.Resources.resources
+C:\Users\Emi\Downloads\JuegoFormulario\JuegoFormulario\obj\Debug\JuegoFormulario.csproj.GenerateResource.cache
+C:\Users\Emi\Downloads\JuegoFormulario\JuegoFormulario\obj\Debug\JuegoFormulario.csproj.CoreCompileInputs.cache
+C:\Users\Emi\Downloads\JuegoFormulario\JuegoFormulario\obj\Debug\JuegoFormulario.exe
+C:\Users\Emi\Downloads\JuegoFormulario\JuegoFormulario\obj\Debug\JuegoFormulario.pdb
+C:\Users\Emi\Downloads\JuegoFormulario\JuegoFormulario\bin\Debug\JuegoFormulario.exe.config
+C:\Users\Emi\Downloads\JuegoFormulario\JuegoFormulario\bin\Debug\JuegoFormulario.exe
+C:\Users\Emi\Downloads\JuegoFormulario\JuegoFormulario\bin\Debug\JuegoFormulario.pdb
+C:\Users\Emi\Documents\EsTuDiO\Universidad\3er Año\Programación Genérica y Eventos\JuegoFormulario\JuegoFormulario\bin\Debug\JuegoFormulario.exe.config
+C:\Users\Emi\Documents\EsTuDiO\Universidad\3er Año\Programación Genérica y Eventos\JuegoFormulario\JuegoFormulario\bin\Debug\JuegoFormulario.exe
+C:\Users\Emi\Documents\EsTuDiO\Universidad\3er Año\Programación Genérica y Eventos\JuegoFormulario\JuegoFormulario\bin\Debug\JuegoFormulario.pdb
+C:\Users\Emi\Documents\EsTuDiO\Universidad\3er Año\Programación Genérica y Eventos\JuegoFormulario\JuegoFormulario\obj\Debug\JuegoFormulario.csprojAssemblyReference.cache
+C:\Users\Emi\Documents\EsTuDiO\Universidad\3er Año\Programación Genérica y Eventos\JuegoFormulario\JuegoFormulario\obj\Debug\JuegoFormulario.Form1.resources
+C:\Users\Emi\Documents\EsTuDiO\Universidad\3er Año\Programación Genérica y Eventos\JuegoFormulario\JuegoFormulario\obj\Debug\JuegoFormulario.Properties.Resources.resources
+C:\Users\Emi\Documents\EsTuDiO\Universidad\3er Año\Programación Genérica y Eventos\JuegoFormulario\JuegoFormulario\obj\Debug\JuegoFormulario.csproj.GenerateResource.cache
+C:\Users\Emi\Documents\EsTuDiO\Universidad\3er Año\Programación Genérica y Eventos\JuegoFormulario\JuegoFormulario\obj\Debug\JuegoFormulario.csproj.CoreCompileInputs.cache
+C:\Users\Emi\Documents\EsTuDiO\Universidad\3er Año\Programación Genérica y Eventos\JuegoFormulario\JuegoFormulario\obj\Debug\JuegoFormulario.exe
+C:\Users\Emi\Documents\EsTuDiO\Universidad\3er Año\Programación Genérica y Eventos\JuegoFormulario\JuegoFormulario\obj\Debug\JuegoFormulario.pdb
